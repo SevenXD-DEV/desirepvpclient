@@ -1,0 +1,20 @@
+{ 
+   "uuid":"53539060-06ce-4ecb-9f40-abf2bc906207",
+   "username":ignSports,
+   "cosmetics":{ 
+      "cbblack":{ 
+         "name":"cbblack",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://github.com/ArcaneCiCi/Public-Cosmetics/blob/master/cosmetics/cbblack.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://github.com/ArcaneCiCi/Public-Cosmetics/blob/master/cosmetics/black.png"
+      }
+   }
+}
